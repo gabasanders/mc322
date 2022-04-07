@@ -3,4 +3,4 @@
 
 ## Arquivos .java do Lab03
 
-[Arquivos .java](pt/c02oo/s02classe/s03lombriga)
+[Arquivos .java](src/pt/c02oo/s02classe/s03lombriga)
