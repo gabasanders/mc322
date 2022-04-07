@@ -1,4 +1,4 @@
-package lab03Lombriga;
+package s03Lombriga;
 public class AquarioLombriga {
 	int TamanhoAquario;
 	int TamanhoLombriga;

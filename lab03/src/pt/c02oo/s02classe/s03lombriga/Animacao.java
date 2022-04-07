@@ -1,4 +1,4 @@
-package lab03Lombriga;
+package s03lombriga;
 public class Animacao {
 	String MovimentosLombriga;
 	AquarioLombriga Lombriga;

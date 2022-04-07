@@ -1,4 +1,4 @@
-package lab03Lombriga;
+package s03lombriga;
 
 public class AppLombriga {
 
